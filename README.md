@@ -7,6 +7,8 @@
 ![Vite](https://img.shields.io/badge/Vite-7-646CFF?logo=vite&logoColor=white)
 ![Architecture](https://img.shields.io/badge/Architecture-FSD-10B981)
 
+![Movie Explorer preview](public/og-image.png)
+
 Movie Explorer is a production-style frontend application for browsing movies, searching by title, opening detailed movie pages, and managing a personal favorites list.
 
 The project was built as a strong portfolio-grade pet project with a focus on scalable architecture, type safety, performance, accessibility, and a polished responsive UI. It was fully developed with the help of Codex AI.
