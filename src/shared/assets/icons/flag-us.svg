@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 48">
+  <defs>
+    <clipPath id="flag-us-clip">
+      <ellipse cx="32" cy="24" rx="24" ry="24"/>
+    </clipPath>
+  </defs>
+  <g clip-path="url(#flag-us-clip)">
+    <rect width="64" height="48" fill="#fff"/>
+    <path fill="#b22234" d="M0 0h64v3.69H0V0zm0 7.38h64v3.69H0V7.38zm0 7.39h64v3.69H0v-3.69zm0 7.38h64v3.69H0v-3.69zm0 7.39h64v3.69H0v-3.69zm0 7.38h64v3.69H0v-3.69zm0 7.39h64V48H0v-3.69z"/>
+    <rect width="28" height="25.85" fill="#3c3b6e"/>
+    <g fill="#fff">
+      <circle cx="4" cy="4" r="1.1"/>
+      <circle cx="9" cy="4" r="1.1"/>
+      <circle cx="14" cy="4" r="1.1"/>
+      <circle cx="19" cy="4" r="1.1"/>
+      <circle cx="24" cy="4" r="1.1"/>
+      <circle cx="6.5" cy="8" r="1.1"/>
+      <circle cx="11.5" cy="8" r="1.1"/>
+      <circle cx="16.5" cy="8" r="1.1"/>
+      <circle cx="21.5" cy="8" r="1.1"/>
+      <circle cx="4" cy="12" r="1.1"/>
+      <circle cx="9" cy="12" r="1.1"/>
+      <circle cx="14" cy="12" r="1.1"/>
+      <circle cx="19" cy="12" r="1.1"/>
+      <circle cx="24" cy="12" r="1.1"/>
+      <circle cx="6.5" cy="16" r="1.1"/>
+      <circle cx="11.5" cy="16" r="1.1"/>
+      <circle cx="16.5" cy="16" r="1.1"/>
+      <circle cx="21.5" cy="16" r="1.1"/>
+      <circle cx="4" cy="20" r="1.1"/>
+      <circle cx="9" cy="20" r="1.1"/>
+      <circle cx="14" cy="20" r="1.1"/>
+      <circle cx="19" cy="20" r="1.1"/>
+      <circle cx="24" cy="20" r="1.1"/>
+    </g>
+  </g>
+</svg>

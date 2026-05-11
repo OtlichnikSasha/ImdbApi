@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 48">
+  <defs>
+    <clipPath id="flag-es-clip">
+      <ellipse cx="32" cy="24" rx="24" ry="24"/>
+    </clipPath>
+  </defs>
+  <g clip-path="url(#flag-es-clip)">
+    <rect width="64" height="48" fill="#aa151b"/>
+    <rect y="12" width="64" height="24" fill="#f1bf00"/>
+    <g transform="translate(14 17)">
+      <rect x="0" y="3" width="6" height="9" rx="1" fill="#c60b1e"/>
+      <rect x="1.2" y="4.2" width="3.6" height="6.6" fill="#f1bf00"/>
+      <path fill="#c60b1e" d="M8 4h3v8H8z"/>
+      <path fill="#c60b1e" d="M-2 4h2v8h-2z"/>
+      <circle cx="3" cy="1.8" r="1.8" fill="#c60b1e"/>
+    </g>
+  </g>
+</svg>
