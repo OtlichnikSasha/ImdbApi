@@ -94,7 +94,7 @@ The UI follows accessibility and semantic HTML best practices:
 ## 🚀 Installation
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/OtlichnikSasha/ImdbApi.git
 cd movie-explorer
 npm install
 ```
